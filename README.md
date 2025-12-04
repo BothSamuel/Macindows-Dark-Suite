@@ -45,5 +45,5 @@ Keep original W11 Taskbar
 Manually change the color to Black(#000000) in the config file, or use the config included in this repo.
 
 ## Rainmeter
-Install the Rainmeter Skin Provided in Niivu's theme pack.
+Install the Rainmeter Skin Provided in Niivu's theme pack.\
 Replace the original "PLAYER" Folder with the one in this repo.
