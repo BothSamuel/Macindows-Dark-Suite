@@ -46,3 +46,4 @@ Manually change the color to Black(#000000) in the config file, or use the confi
 
 ## Rainmeter
 Install the Rainmeter Skin Provided in Niivu's theme pack.
+Replace the original "PLAYER" Folder with the one in this repo.
