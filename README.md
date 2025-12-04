@@ -34,4 +34,6 @@ Keep original W11 Taskbar
 <img width="593" height="442" alt="Capture d&#39;écran 2025-12-04 225304" src="https://github.com/user-attachments/assets/a0f74c06-d96c-4905-b479-dde6515ed80a" />
 
 ## TackyBorders
+Manually change the color to Black(#000000) in the config file, or use the config included in this repo.
+
 ## Rainmeter
