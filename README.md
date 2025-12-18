@@ -4,14 +4,13 @@ Dot files and explanations for My version of the <a href="https://www.deviantart
 <img width="1920" height="1080" alt="Captura de pantalla 2025-12-18 121942" src="https://github.com/user-attachments/assets/e9ff784a-bafc-47bd-8cf9-fb4566767467" />
 
 # Software Needed
-UXTheme hook windhawk mod: <a href="https://windhawk.net/mods/uxtheme-hook">Link</a>\
 Windhawk : <a href="https://windhawk.net/">Link</a>\
 Explorer Patcher: <a href="https://github.com/valinet/ExplorerPatcher">Link</a>\
 MicaforEveryone: <a href="https://github.com/MicaForEveryone/MicaForEveryone">Link</a>\
 TackyBorders: <a href="https://github.com/lukeyou05/tacky-borders">Link</a>\
 BigBlueTermPlus Font: <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/BigBlueTerminal">Link</a> (All)
 
-## SecureUxTheme
+## Install theme
 - Install UXTheme hook mod 
 - Export Niivu's Theme in 'C:\Windows\Resources\Themes'
 - Select your preferred Dark/Nigth Variant
