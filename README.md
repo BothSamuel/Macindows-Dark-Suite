@@ -3,9 +3,6 @@ Dot files and explanations for My version of the <a href="https://www.deviantart
 
 <img width="1920" height="1080" alt="Captura de pantalla 2025-12-18 121942" src="https://github.com/user-attachments/assets/e9ff784a-bafc-47bd-8cf9-fb4566767467" />
 
-<img width="370" height="1079" alt="Captura de pantalla 2025-12-18 122052" src="https://github.com/user-attachments/assets/d2a1858c-0d1f-45ee-996b-26e34225c4b6" />
-
-
 # Software Needed
 UXTheme hook windhawk mod: <a href="https://windhawk.net/mods/uxtheme-hook">Link</a>\
 Windhawk : <a href="https://windhawk.net/">Link</a>\
