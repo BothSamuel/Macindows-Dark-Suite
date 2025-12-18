@@ -24,6 +24,7 @@ BigBlueTermPlus Font: <a href="https://github.com/ryanoasis/nerd-fonts/tree/mast
 - Windows 11 Notification Center Styler
 - Windows 11 Start Menu Styler
 - Windows 11 Taskbar Styler
+- Resource Redirect (Icons included in the Niivu theme)
 ## Explorer Patcher
 ### Taskbar:
 Keep original W11 Taskbar
