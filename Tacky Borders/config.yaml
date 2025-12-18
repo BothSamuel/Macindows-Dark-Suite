@@ -3,8 +3,8 @@ global:
     border_width: 2             # Width of the border
     border_offset: -2            # How close the border is to the window edges
     border_radius: -1            # Radius of the corners. Leave it at -1 to let tacky-borders handle the radius or set your own custom value.
-    active_color: "#000000"       # Color of the focused window. Currently supports a hex code like "#ffffff" or "accent"
-    inactive_color: "#000000"     # Color of unfocused windows. Currently supports a hex code like "#ffffff" or "accent"
+    active_color: "#FFFFFF"       # Color of the focused window. Currently supports a hex code like "#ffffff" or "accent"
+    inactive_color: "#FFFFFF"     # Color of unfocused windows. Currently supports a hex code like "#ffffff" or "accent"
 
 
 # Customize config options on a per-app basis
