@@ -1,4 +1,4 @@
-# Macindows-Light-Suite
+# Macindows-Dark/Nigth-Suite
 Dot files and explanations for My version of the <a href="https://www.deviantart.com/niivu/art/macindows-for-Windows-11-1133407537">Macindows theme</a> by <a href="https://www.deviantart.com/niivu">Niivu</a> and Lerakei-0's <a href="https://github.com/Lerakei-0/Macindows-Light-Suite?tab=readme-ov-file">Files</a>  
 
 <img width="1920" height="1080" alt="Captura de pantalla 2025-12-18 121942" src="https://github.com/user-attachments/assets/e9ff784a-bafc-47bd-8cf9-fb4566767467" />
